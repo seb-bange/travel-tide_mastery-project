@@ -114,3 +114,5 @@ The main objective was to design a data-driven perk assignment strategy that max
 
 💡 **Thank you for reviewing the TravelTide perk segmentation project!**  
 Let’s turn data into action — one perk at a time.
+
+See [DISCLAIMER.md](https://github.com/seb-bange/travel-tide_mastery-project/blob/main/DISCLAIMER) for usage considerations.
