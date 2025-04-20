@@ -99,6 +99,7 @@ The main objective was to design a data-driven perk assignment strategy that max
 - **📄 Python Code:** [`perk_assignment_from.py`](https://github.com/seb-bange/travel-tide_mastery-project/blob/main/perk_assignment_from.py)  
 - **📔 Colab Notebook:** [`TravelTide_Mastery-Project_Sebastian-Bangemann.ipynb`](https://colab.research.google.com/drive/1d7Wfw7gJsM385mHAcEsV1DRHhq4hRv3I?usp=sharing)
 - **🎬 Presentation Video:** [Watch Video](https://drive.google.com/file/d/1_TGIfibhuzn9QmX6iy6Go2_dNZaCuZ55/view?usp=drive_link)
+- **🧾 Presentation Slides:** [Open Slides](https://drive.google.com/file/d/1N68kFPBd57dgD29F2VlMyUgUgf_n_14H/view?usp=drive_link)
 
 ---
 
