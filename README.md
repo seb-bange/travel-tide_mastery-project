@@ -44,7 +44,7 @@ The main objective was to design a data-driven perk assignment strategy that max
   - Segment-specific KPIs  
   - Executive overview and strategic recommendations  
 
-![Tableau Dashboard Mockup](https://github.com/seb-bange/traveltide_project/blob/main/media/tableau_mockup.png)
+![Tableau Dashboard Mockup](https://github.com/seb-bange/travel-tide_mastery-project/blob/main/Tableau_MockUp.png)
 
 ---
 
