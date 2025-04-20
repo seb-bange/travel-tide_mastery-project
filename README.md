@@ -87,12 +87,12 @@ The main objective was to design a data-driven perk assignment strategy that max
 ---
 
 ## 📋 **Detailed Report**
-
+- [Three-Page Detailed Report PDF]
 ---
 
 ## 🔗 **Links**
 
-- **🔗 Tableau Dashboard:** [View Dashboard](https://public.tableau.com/views/TravelTide_Mastery-Project/TravelTide_PerkRewardProgram?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+- **🔗 Tableau Dashboard:** [View Dashboard](https://public.tableau.com/views/TravelTide_Mastery-Project/TravelTide_PerkRewardProgram?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **📂 Cleaned Session-Level Table:** [`session_level_based_table_cleaned.csv`](https://github.com/seb-bange/traveltide_project/blob/main/data/session_level_based_table_cleaned.csv)  
 - **📂 Final User Table (with Clusters):** [`user_level_based_table_clustered_final.csv`](https://github.com/seb-bange/traveltide_project/blob/main/data/user_level_based_table_clustered_final.csv)  
 - **📄 SQL Queries:** [`sql_queries.sql`](https://github.com/seb-bange/traveltide_project/blob/main/sql/sql_queries.sql)  
