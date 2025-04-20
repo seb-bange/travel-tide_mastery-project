@@ -1,0 +1,23 @@
+# ⚠️ Disclaimer
+
+This repository was created as part of a data analytics and personalization project for educational and demonstration purposes.
+
+All SQL queries and Python scripts provided in this project are designed to work with sample or anonymized data. They were developed in a controlled environment (Google Colab and PostgreSQL) and may require adjustments depending on your system, data structure, or deployment method.
+
+## 💡 Usage Notes
+
+- The logic behind the perk assignment and clustering was built for simulation and learning.
+- Do not use any logic, thresholds, or automation directly in a production environment without validation.
+- Make sure to adapt any queries or scripts to your own data security, privacy, and performance requirements.
+- Results, insights, and clusters are derived from hypothetical user behavior.
+
+## 🚫 No Warranty
+
+The authors of this repository accept no responsibility for:
+- Accuracy, completeness, or performance of the code
+- Any loss of data, unintended user behavior, or business outcomes
+- Compatibility with your systems or datasets
+
+---
+
+Use at your own risk.
