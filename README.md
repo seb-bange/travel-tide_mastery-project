@@ -82,7 +82,7 @@ The main objective was to design a data-driven perk assignment strategy that max
 ---
 
 ## 📋 **Executive Summary**  
-- [One-Page Executive Summary PDF]
+- [One-Page Executive Summary PDF](https://github.com/seb-bange/travel-tide_mastery-project/blob/main/Executive_Summary.pdf)
 
 ---
 
@@ -93,9 +93,10 @@ The main objective was to design a data-driven perk assignment strategy that max
 ## 🔗 **Links**
 
 - **🔗 Tableau Dashboard:** [View Dashboard](https://public.tableau.com/views/TravelTide_Mastery-Project/TravelTide_PerkRewardProgram?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- **📂 Cleaned Session-Level Table:** [`session_level_based_table_cleaned.csv`](https://github.com/seb-bange/traveltide_project/blob/main/data/session_level_based_table_cleaned.csv)  
-- **📂 Final User Table (with Clusters):** [`user_level_based_table_clustered_final.csv`](https://github.com/seb-bange/traveltide_project/blob/main/data/user_level_based_table_clustered_final.csv)  
-- **📄 SQL Queries:** [`sql_queries.sql`](https://github.com/seb-bange/traveltide_project/blob/main/sql/sql_queries.sql)  
+- **📂 Cleaned Session-Level Table:** [`session_level_based_table_cleaned.csv`](https://github.com/seb-bange/travel-tide_mastery-project/blob/main/session_level_based_table_cleaned.csv)  
+- **📂 Final User Table (with Clusters):** [`user_level_based_table_clustered_final.csv`](https://github.com/seb-bange/travel-tide_mastery-project/blob/main/user_level_based_table_clustered_final.csv) 
+- **📄 SQL Queries:** [`final_queries_full.sql`](https://github.com/seb-bange/travel-tide_mastery-project/blob/main/final_queries_full.sql)
+- **📄 Python Code:** [`perk_assignment_from.py`](https://github.com/seb-bange/travel-tide_mastery-project/blob/main/perk_assignment_from.py)  
 - **📔 Colab Notebook:** [`TravelTide_Mastery-Project_Sebastian-Bangemann.ipynb`](https://colab.research.google.com/drive/1d7Wfw7gJsM385mHAcEsV1DRHhq4hRv3I?usp=sharing)
 
 ---
