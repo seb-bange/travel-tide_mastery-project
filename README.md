@@ -82,12 +82,12 @@ The main objective was to design a data-driven perk assignment strategy that max
 ---
 
 ## 📋 **Executive Summary**  
-- [One-Page Executive Summary PDF](https://github.com/seb-bange/traveltide_project/blob/main/TravelTide_Executive_Summary_SB.pdf)
+- [One-Page Executive Summary PDF]
 
 ---
 
 ## 📋 **Detailed Report**
-- [Three-Page Detailed Report PDF]
+- [Three-Page Detailed Report PDF](https://github.com/seb-bange/travel-tide_mastery-project/blob/main/Detailed%20Report.pdf)
 ---
 
 ## 🔗 **Links**
