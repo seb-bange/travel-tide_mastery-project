@@ -77,7 +77,7 @@ The main objective was to design a data-driven perk assignment strategy that max
 ## 🧠 **Standout Logic**  
 - **Segment-Specific Thresholds:** Perks are only granted to users who exceed cluster-specific behavioral thresholds  
 - **No Threshold for Key Groups:** Segments like *No-Bookers* and *Low-Activity Users* receive perks with no threshold to stimulate engagement  
-- **Marketing-Friendly Naming:** Cluster names such as *The Curious Visitors* and *The Premium Travellers* improve storytelling and presentation impact  
+- **Marketing-Friendly Naming:** Cluster names such as *The Curious Visitors* and *The Premium Travelers* improve storytelling and presentation impact  
 
 ---
 
